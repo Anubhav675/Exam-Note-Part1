@@ -7,3 +7,5 @@ Install backend and frontend dependencies separately with `npm install`. Copy `b
 Install Vitest and Supertest in Part 1 Iteration 4. Install bcryptjs and jsonwebtoken in Part 2 Iteration 5.
 
 Keep your `.env` file and generated `node_modules` folders out of version control. Use `.env.example` to document the environment variables your application needs.
+
+https://github.com/tx00-web-en/Learning-Material-And-Tasks
